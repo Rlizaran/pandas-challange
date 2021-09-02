@@ -9,7 +9,7 @@ Dataset **purchase_data.csv**
 ## Three observable trends trends based on the data
 
 * There are a total of 484 male players that constitute 84.03% of the total players
-* Players age varies from less than 10 to 40+, but 44.79% range from 20-24 years old. They also hold the biggest purchase count (365) on the Game .
+* Players age varies from less than 10 to 40+, but 44.79% range from 20-24 years old. They also hold the biggest purchase count (365) on the Game with a total of $1967.64.
 * The most profitable item on the game is Final Critic wiht a total of 13 purchase count for a total value of $34.80
 
 ## The Python script analyzes the purchase data of the game and shows each of the following:
