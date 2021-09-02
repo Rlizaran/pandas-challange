@@ -12,3 +12,15 @@ Dataset **purchase_data.csv**
 * Players age varies from less than 10 to 40+, but 44.79% range from 20-24 years old. They also hold the biggest purchase count (365) on the Game .
 * The most profitable item on the game is Final Critic wiht a total of 13 purchase count for a total value of $34.80
 
+## The Python script analyzes the purchase data of the game and shows each of the following:
+
+* Player Counts
+* Purchasing Analysis (Total)
+* Gender Demographics
+* Purchasing Analysis (Gender)
+* Age Demographics
+* Purchasing Analysis (Age)
+* Top Spenders
+* Most Popular Items
+* Most Profitable Items
+
