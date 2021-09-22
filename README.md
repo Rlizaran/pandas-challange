@@ -24,3 +24,8 @@ Dataset **purchase_data.csv**
 * Most Popular Items
 * Most Profitable Items
 
+## File Description
+#### HeroesOfPymoli
+* Resources
+  * purchase_data.csv 
+* main.ipynb: `Python` code on `Jupyter Notebook`
