@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome Heroes of Olympus, Pandas Challange
 
-You can use the [editor on GitHub](https://github.com/Rlizaran/pandas-challange/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this little project, we are going to analyze the game Heroes of Olympus to find some inside information to get an idea how many poeple play the game, their gender, what item is the most sold and bought and how much money has the top player spent.
 
 ### Markdown
 
