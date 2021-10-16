@@ -2,34 +2,8 @@
 
 In this little project, we are going to analyze the game Heroes of Olympus to find some inside information to get an idea how many poeple play the game, their gender, what item is the most sold and bought and how much money has the top player spent.
 
-### Markdown
+## Three observable trends trends based on the data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rlizaran/pandas-challange/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* There are a total of 484 male players that constitute 84.03% of the total players
+* Players age varies from less than 10 to 40+, but 44.79% range from 20-24 years old. They also hold the biggest purchase count (365) on the Game with a total of $1967.64.
+* The most profitable item on the game is Final Critic wiht a total of 13 purchase count for a total value of $34.80
